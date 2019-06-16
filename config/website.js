@@ -6,11 +6,11 @@ module.exports = {
   siteTitle: 'Scottie Crump', // Navigation and Site Title
   siteTitleAlt: 'Scottie Crump', // Alternative Site title for SEO
   siteTitleShort: 'Scottie Crump', // short_name for manifest
-  siteHeadline: 'Creating marvelous art & blazginly fast websites', // Headline for schema.org JSONLD
+  siteHeadline: 'Building modern, responsive websites', // Headline for schema.org JSONLD
   siteUrl: 'https://scottiecrump.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
-  siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
+  siteDescription: 'A Portfolio site created by Scottie Crump',
   author: 'LekoArts', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
